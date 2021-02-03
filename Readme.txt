@@ -1,1 +1,1 @@
-Sample Spring Boot API.
+Sample Spring Boot API .
